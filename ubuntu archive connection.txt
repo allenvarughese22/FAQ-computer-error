@@ -1,0 +1,17 @@
+ubuntu archive connection error
+
+
+sudo gedit /etc/gai.conf  
+
+::ffff:0 0/96 100  uncomment    - didn't work
+
+
+changed etc/apt/source.list to repogen   -didn't work
+
+used acquireforceipv4=true            -didn't work
+
+
+
+add the following to your resolve.conf file /etc/resolv.conf   -best thing
+nameserver 8.8.8.8
+nameserver 8.8.4.4

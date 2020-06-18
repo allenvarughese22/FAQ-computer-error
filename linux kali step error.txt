@@ -1,0 +1,4 @@
+increase the virtual hard disk space to 15 gb from 8 gb default
+
+in network mirror error
+press yes and go back 2-3 times

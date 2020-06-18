@@ -1,0 +1,3 @@
+ensure the part is not in wireframe
+
+in shading in bottom menu ensure it is shading or shading with edges not in wireframe

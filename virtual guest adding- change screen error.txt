@@ -1,0 +1,13 @@
+insert guest additions error
+
+
+go to virtual box.. main home..
+
+
+select linux 
+
+
+unmount storage - guesadditons
+
+
+force unmount

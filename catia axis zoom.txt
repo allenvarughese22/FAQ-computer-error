@@ -1,0 +1,13 @@
+options general display tree manipulation 
+
+ensure tree zoom after clickin or  any branch  - unticked
+
+
+
+
+mouse scrool is not for zooming part
+
+
+contrl + press middle mouse button pressed and dragging mouse  is zoom  - imp.. point
+
+if control + scroll it will zoom the tree
